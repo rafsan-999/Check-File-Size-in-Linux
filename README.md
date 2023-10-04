@@ -5,7 +5,7 @@
 output 
 
       8.0K    test
-## If you need to get the size for all the files under the current directory, you can use this command:
+## all the files under the current directory, you can use this command:
       du -h *
 output 
  
